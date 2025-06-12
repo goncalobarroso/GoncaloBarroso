@@ -34,5 +34,5 @@
 
 ## 📫 Where to find me
 
-- LinkedIn: [linkedin.com/in/goncalobarroso](https://linkedin.com/in/goncalobarroso)  
+- LinkedIn: [linkedin.com/in/goncalobarroso](https://linkedin.com/in/gonbarroso)  
 - GitHub: [@goncalobarroso](https://github.com/goncalobarroso)
