@@ -11,13 +11,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalobarroso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalobarroso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-These charts are automatically generated using the amazing [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) project, which provides:
-
-- Public GitHub contribution stats  
-- Most used programming languages per repo  
-- Total commits, repositories, and stars  
-- Customizable themes and responsive layouts
-
 ---
 
 ## 🧠 Some of my skills
