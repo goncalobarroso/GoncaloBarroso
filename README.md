@@ -8,8 +8,8 @@
 
 ## 📊 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalobarroso&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalobarroso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalobarroso&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalobarroso&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
